@@ -1,17 +1,16 @@
 # Site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Misa Redondo
+subtitle: Photography
+email: misaredondo@gmail.com
+description: Contar la historia, registrar el momento y plasmar el recuerdo.
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Misa Redondo
+street_address: Mi Calle 123
+city: Culiacán
+state: Sinaloa
+zip_code: 80000
+country: México
+phone: +52 667 204 9752
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
